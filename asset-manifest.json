@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app-sar/static/css/main.d8e1c143.css",
+    "main.js": "/weather-app-sar/static/js/main.cb0a3990.js",
+    "static/media/background.jpg": "/weather-app-sar/static/media/background.428112a29f0f80d0c2ec.jpg",
+    "index.html": "/weather-app-sar/index.html",
+    "main.d8e1c143.css.map": "/weather-app-sar/static/css/main.d8e1c143.css.map",
+    "main.cb0a3990.js.map": "/weather-app-sar/static/js/main.cb0a3990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e1c143.css",
+    "static/js/main.cb0a3990.js"
+  ]
+}
